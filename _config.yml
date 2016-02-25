@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.671452
+  lightness: 0.257191
+  rhythmicContrast: 0.764819
+  saturation: 0.594653
+cta: {}
+layout_spectrum: 0.40894724561857654
+name: YaoBoLu
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.635254
